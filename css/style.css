@@ -490,7 +490,7 @@ portfolio H2 and p tag designs are combined in the line 263 and 273 of style.css
     left: 0;
     right: 27px;
     bottom: 3px;
-    background-color: rgba(2, 145, 139, .75);
+    background-color: rgba(46, 204, 113, .75);
     opacity: 0;
     border-radius: 50%;
     transform:rotate(180deg);
